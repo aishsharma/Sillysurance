@@ -1,0 +1,40 @@
+# Node.js and pnpm related
+/node_modules/
+.pnpm-debug.log
+.pnp/
+pnpm-lock.yaml
+
+# Build output
+/dist/
+/build/
+
+# Tailwind CSS and PostCSS
+/.postcss/
+/tailwind.config.js
+
+# React
+/.cache/
+/public/assets/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+*.db
+
+# Virtual Environment
+/env/
+
+# VSCode settings
+.vscode/
+.code-workspace
+
+# PyCharm settings
+.idea/
+*.iml
+
+# System files
+.DS_Store  # macOS specific
+Thumbs.db  # Windows specific
